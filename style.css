@@ -1,0 +1,219 @@
+body{
+    margin:0;
+    padding:0;
+    /* background:red; */
+}
+.first-img{
+    background-image: url(img/finest.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    width:70%;
+    margin:auto;
+}
+.box1{
+   
+    height: 64px;
+    width: 100%;
+    display: flex;
+}
+.a{
+
+    height: 64px;
+    width: 30%;
+    text-align: center;
+    line-height: 64px;
+    color: white;
+
+}
+.header :hover{
+    
+
+}
+.header ul {
+n
+    list-style: none;
+    margin: 0px;
+    display: flex;
+    padding: 0px;
+    justify-content: space-between;
+    line-height:64px;
+   text-align: center;
+
+    
+    
+}
+.header ul li{
+    /* line-height: 64px; */
+
+
+}
+.header ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+.b{
+   
+    height: 64px;
+    width: 70%;
+    
+}
+.box2{
+   
+    height: 500px;
+    color: white;
+    padding-top: 200px;
+    
+
+}
+.boxx2{
+    background-color: rgb(228, 16, 16);
+    width: 80px;
+    height: 40px;
+    display: flex;
+    margin-top: 20px;
+    padding-top: 12px;
+    padding-left: 20px;
+}
+
+.boxx3{
+    background-color: rgb(228, 16, 16);
+    width: 80px;
+    height: 40px;
+    display: flex;
+    margin-top: 20px;
+    padding-top: 12px;
+    padding-left: 20px;
+    margin-left: 100px;
+    color: white;
+}
+
+
+.box2 h3{
+    font-size: 30px;
+    color: white;
+}
+
+.c h4{
+    
+    font-size: 30px;
+    padding-left: 100px;
+    color: white;
+    
+margin: 0;
+   
+   
+    
+}
+.c h5{
+   
+    font-size: 40px;
+    padding-left: 100px;
+   margin: 0;
+   color: white;
+   
+}
+.text1{
+    font-size: 30px;
+    padding-left: 100px;
+    color: white;
+    
+}
+.box2 p{
+    margin: 0;
+    font-size: 50px;
+    color: white;
+    
+}
+.d h6{
+    font-size: 30px;
+    padding-left: 100px;
+    margin: 0;
+    color: white;
+}
+.d h7{
+    font-size: 50px;
+    padding-left: 100px;
+    margin: 0;
+    color: white;
+}
+.text2{
+    font-size: 30px;
+    padding-left: 100px;
+    color: white;
+}
+.box3{
+    
+    height: 400px;
+    width: 100%;
+    display: flex;
+   
+}
+.c{
+   background-image: url(img/fitness.jpg);
+    width: 50%;
+    height: 400px;
+
+}
+.d{
+  background-image: url(img/men.jpg);
+    width: 50%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: red;
+    background-image: url(img/footer.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+}
+.header1 ul {
+    color: white;
+    height: 80px;
+    
+    width: 100%;
+    font-size: 30px;
+    font-style: italic;
+    list-style: none;
+    margin: 0px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    line-height:64px;
+    text-decoration: none;
+}
+
+.header1 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.header2 ul {
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+    list-style: none;
+    margin: 0px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    line-height:64px;
+    text-decoration: none;
+    
+}
+.header2 ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+  
+

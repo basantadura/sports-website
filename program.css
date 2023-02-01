@@ -1,0 +1,125 @@
+.div1{
+    color: red;
+    font-size: 60px;
+}
+
+.box1{
+    background-color: aqua;
+    width: 100%;
+    color: blueviolet;
+    height: 300px;
+    display: flex;
+    margin-top: 40px;
+
+}
+
+.a{
+    background-image: url(img/swimming.jpg);
+    height: 300px;
+    width: 33.33%;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+.a1{
+    background-color:blue;
+    width: 33.33%;
+    height: 300px;
+}
+.b{
+    background-color: green;
+    
+    height: 300px;
+    width: 33.33%;
+   
+    background-image: url(img/swimming1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box2{
+    background-color: black;
+    width: 100%;
+    color:aquamarine;
+    height: 300px;
+    display: flex;
+   margin-top: 40px;
+
+}
+.c{
+    background-color: rgb(38, 0, 128);
+    height: 300px;
+    width: 700px;
+    /* animation-name: basanta; */
+    /* animation-duration: 2s;
+    animation-iteration-count: infinite;    */
+    background-image: url(img/cali1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.b1{
+    background-color:blue;
+    width: 33.33%;
+    height: 300px;
+}
+
+/* @keyframes basanta{
+    0%{
+        background-color: grey;
+    }
+} */
+.d{
+    background-color: green;
+    height: 300px;
+    width: 900px;
+   
+    background-image: url(img/cali2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.box3{
+    background-color: pink;
+    width: 100%;
+    color:aquamarine;
+    height: 300px;
+    display: flex;
+   margin-top: 40px;
+
+}
+.e{
+    height: 300px;
+    width: 700px;
+    background-color: red;
+    background-image: url(img/boxing1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.f{
+    height: 300px;
+    width: 900px;
+    background-color: blue;
+    
+    background-image: url(img/boxing.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color: red;
+    font-size: 40px;
+}
+h1{
+    color: red;
+    font-size: 40px;
+}
+h3{
+    color: red;
+    font-size: 40px;
+}
+

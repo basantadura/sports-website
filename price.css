@@ -1,0 +1,129 @@
+.container{
+    width:50%;
+    margin:auto;
+    /* background-color: black; */
+
+    
+    
+}
+.box1{
+    
+    height: 320px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.a{
+    width:48%;
+    height:300px;
+    border: 5px solid red;
+    border-radius:10px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+     display: flex;
+    justify-content: center;
+   
+   /* padding-top: 30px; */
+ 
+
+
+    /* background: yellow; */
+}
+.f p{
+    margin: 64px;
+}
+.b{
+    width:48%;
+    height:300px;
+    border: 5px solid red;
+    border-radius:10px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+
+}
+.a p{
+    margin: 64px;
+}
+.box2{
+    
+    height: 320px;
+    display: flex;
+    justify-content: space-between;
+}
+.c{
+    width:48%;
+    height:300px;
+    border: 5px solid red;
+    border-radius:10px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+
+    /* background: yellow; */
+}
+.b p{
+    margin: 64px;
+}
+.d{
+    width:48%;
+    height:300px;
+    border: 5px solid red;
+    border-radius:10px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+
+    /* background: yellow; */
+}
+.c p{
+    margin: 64px;
+}
+.box3{
+    
+    height: 320px;
+    display: flex;
+    justify-content: space-between;
+}
+.e{
+    width:48%;
+    height:300px;
+    border: 5px solid red;
+    border-radius:10px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+
+    /* background: yellow; */
+}
+.d p{
+    margin: 64px;
+}
+.f{
+    width:48%;
+    height:300px;
+    border: 5px solid red;
+    border-radius:10px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+
+    /* background: yellow; */
+}
+.e p{
+    margin: 64px;
+}
+.hello{
+    background-image: url(img/price1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
